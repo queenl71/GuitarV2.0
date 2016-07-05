@@ -11,3 +11,7 @@ Object-Oriented Analysis & Design 课程设计作业
 
 测试类
 ![image](https://github.com/queenl71/GuitarV2.0/blob/master/test.png)
+
+添加吉它
+![image](https://github.com/queenl71/GuitarV3/blob/master/add.png)
+
